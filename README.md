@@ -71,3 +71,5 @@ Final Remarks:
 This portfolio page is well-structured to provide visitors with:
 
 Information about Gayathri’s skills and services.
+![screencapture-127-0-0-1-5500-index-html-2024-09-19-12_23_29](https://github.com/user-attachments/assets/75d02e64-6189-46dd-92cf-131c7c34dd2d)
+
