@@ -45,31 +45,4 @@ Contact Section
 Form includes text input fields and a submit button (<input type="submit" value="Send Message">).
 Footer Section
 <footer>: Includes copyright information and an "up" arrow button to scroll back to the top of the page.
-CSS (Styling)
-The CSS is referenced externally (style.css) and applies styling such as:
-
-Layout styling: Responsible for positioning elements (header, sections, footer) and creating responsive behavior.
-Typography: Defines fonts, colors, and sizes for text in headings and paragraphs.
-Button styles: Styling for the buttons (e.g., "Download CV", "Read more").
-Hover effects: For example, in the Portfolio section, when hovering over a project, a description is revealed.
-Responsiveness: Media queries (if defined in the style.css file) adapt the layout for smaller screens.
-JavaScript (Interactivity)
-Two external scripts are referenced:
-
-ScrollReveal (scrollreveal.min.js) is likely used for revealing elements on scroll to create smooth animations.
-main.js: Custom JavaScript file (main.js) controls various interactive features such as:
-Toggling the mobile navigation menu.
-Scroll-based animations.
-Dynamic interactivity like smooth scrolling or button clicks.
-Key Functionalities
-Navigation Menu: Links in the header allow users to scroll to various sections of the page.
-Mobile-friendly: A hamburger icon appears on smaller screens for navigation.
-Downloadable CV: Users can download a resume by clicking on the "Download CV" button.
-Project Hover Effect: Hovering over projects in the portfolio reveals details about each one.
-Contact Form: Users can submit their details through a form.
-Final Remarks:
-This portfolio page is well-structured to provide visitors with:
-
-Information about Gayathri’s skills and services.
-![screencapture-127-0-0-1-5500-index-html-2024-09-19-12_23_29](https://github.com/user-attachments/assets/75d02e64-6189-46dd-92cf-131c7c34dd2d)
-
+![screencapture-127-0-0-1-5500-index-html-2024-09-19-12_23_29](https://github.com/user-attachments/assets/932a2315-fb0f-498b-9377-806967954cfc)
